@@ -10,12 +10,11 @@ Collection of Data Structures and Algorithms problems solved in C++.
 - Trees
 - Graphs
 - Recursion
-- Dynamic Programming
+- Optimization methods
 
-## Platforms
+## Platforms from where questions are taken .
 
 - LeetCode
-- HackerRank
 - geeks for geeks
 
 ## Language
